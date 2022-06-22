@@ -1,0 +1,72 @@
+-------------------------------------------------5th Video--------------------------------------------------------------
+
+
+how to set default values for package.json files
+
+set the default author name - npm config set init-author-name "Tausif"
+set the default license - npm % npm set init-license "TausifCG"
+
+
+how to get default author name - npm config get init-author-name
+how to get the default license -  npm get init-license
+
+how to delete the default autor name we have set - npm config delete init-author-name
+how to delete the default license we have set- npm config delete init-license
+
+--------------------------------------------------6th Video--------------------------------------------------------------
+
+How to install and add Dependency in Package.json file
+
+only install library inthe file (moment is basically a javascript date library  )    - npm install moment
+
+install and  add dependency  in package.json                            - npm install moment --save
+
+required only for development purpose not for production then  -    npm install lodash --save-dev
+this above will create another dependency called as devdepencies.
+
+
+-----------------------------------------------------7th Video--------------------------------------------------------------
+
+how to uninstall node modules from the file 
+
+this will delete the module but not from the package.json -       npm uninstall moment
+
+then to save to the package .json file then we have run   -       npm uninstall moment --save
+
+then to remove the dev dependency from the package.json file -    npm uninstall lodash --save-dev
+
+---------------------------------------------------8th Video------------------------------------------------------------
+
+how to install dependency globally 
+
+install the package globally just add the g    -   npm install moment -g
+
+
+---------------------------------------------------9th Video------------------------------------------------------------
+
+how to uninstall package ?
+
+this command can be used to remove/uninstall the package -    npm uninstall moment -g
+
+alias or another method you can uninstall the package 
+
+npm uninstall
+npm remove
+npm rm
+npm un
+---------------------------------------------------10th Videos----------------------------------------------------------
+
+How to listing Pcakage ?
+only shows the list -       npm list
+shows the 1 dependency -    npm list -depth 1
+shows the 0 dependency-    npm list -depth 0
+shows globally installed packages - npm list --global true --depth 0
+
+
+----------------------This Work is done 3.30 to 4.45-----------------------------------------------------------
+
+
+
+
+
+
