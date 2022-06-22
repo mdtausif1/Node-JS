@@ -1,0 +1,97 @@
+---------------------------------------------------11th Video----------------------------------------------------------
+How Version works with package
+
+semantic versioning
+lodash: "4.16.1"
+
+4 major version
+16 minor version
+1 patch version 
+
+Change in functionality change the major versiion number
+new feature added but this is not change any functionality then change in minor version
+bug fix then patch version increment
+
+if we want to install any specific version   - npm install lodash@3.3.0 --save
+if we want to install latest patch with specific major & minor version   - npm install lodash@3.3 --save
+if we want to install latest minor and patch with specific major version   - npm install lodash@3 --save
+
+---------------------------------------------------12th Video----------------------------------------------------------
+we can install any version we want 
+
+we can add negation symbol before major version so the major and minor version will remain the same and afer running the npm install we can get the latest
+version of the patch number.
+
+mention in the lodash version "~4.16.21"
+
+then run the npm install
+
+---------------------------------------------------13th Video----------------------------------------------------------
+
+How to Update the Package
+
+it will update the lodash       - npm update lodash --save
+
+it will update dev dependency      -  npm update --dev --save-dev  
+
+ this will update all the dependency and packages     -  npm update
+
+this will update all the global package            -  npm update -g
+
+this will update a particular global package    -   npm update -g gulp
+
+update the npm to globally upadted version -   npm install npm@latest -g
+
+---------------------------------------------------14th Video----------------------------------------------------------
+
+How npm Prune works
+
+Basically it removes extraneous  Package that is not in package.json file but in the project folder
+
+we can check it like which package is extraneous.
+
+npm list --depth 0
+
+we can remove using npm prune
+
+---------------------------------------------------15th Video----------------------------------------------------------
+
+Some Shortcurts for NPM
+
+we can reduce the npm codes to-    npm init -yes to npm init -y
+this above command is used to create package.json with deafult values without asking any questions
+
+we can reduce the codes of install comand of     -npm install lodash    to    npm i lodash
+
+we can reduce the codes of save install comand of  -   npm install lodash -save  to    npm i lodash -S
+
+we can reduce the codes of install for devtols like - npm install moment --save-dev   to  npm i moment -D
+
+npm -global to npm -g
+
+we can find more shorthands/shortcut key in   -   https://docs.npmjs.com/cli/v8/using-npm/config
+
+---------------------------------------------------16th Video----------------------------------------------------------
+
+npm Scripts topic
+How to run npm Scripts
+
+enter the value in test under scripts change the value to start then assign the start point of you project then open the cmd/terminal
+run the command npm start then the files start executing.
+
+---------------------------------------This above work is done between 5 to 7.30--------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
