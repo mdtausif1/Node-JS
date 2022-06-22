@@ -1,0 +1,39 @@
+--------------------------------------------1st Vdeo---------------------------------------
+Introduction to NPM
+Basically NPM is the package manager for JS.
+files containg reusable code are  modules 
+package is a directory conatin one or more modules with a special files kknown as package.json contain metadata about the package.
+
+-----------------------------NPM- Defination--------------------
+it is a way of share your code with other developers & reuse the code from other developers & Easiliy manage the differnet version of the code.
+
+
+
+----------------------------------------2nd Video------------------------------------------
+How to Install npm in our machine and how to check the version of the npm
+
+
+
+----------------------------------------3rd Video-------------------------------------------
+
+done some handson on the npm help 
+what is npm -help
+what is npm install -h
+what is  npm help-search update 
+
+----------------------------------------4th Video-------------------------------------------
+
+what is Pcakage json?
+Helps to manage dependency of your project , its let you to add the scripts that help to build the initials , you can specify the version on your project depends on.
+ 
+ how to create package.json
+ go to terminal and go to the file and type ---  npm init
+ and answer some questions what you want to add in that file and this is done .
+ you can find the package.json file in the file you opend the terminal.
+ -------------------------------------------------------------------------------------------------------------------------------------
+
+ This above is the work I Have done in between 2.30-3.30pm
+ 
+ 
+ 
+ 
