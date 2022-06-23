@@ -1,0 +1,46 @@
+--------------------------------------------1st Video Nodejs-------------------------------------------------------
+Node Js is a Javascript run time built on Chrome v8 engine.
+
+Node js uses Eventdriven non blocking model that makes it light weight and efficient.
+
+Node js uses npm ecosystem which is the largest opensource library in the world.
+
+Node js allows Java script to run on a computer /server.
+
+Node js is a great platform to be used in real time services like chats.
+
+--------------------------------------------2nd Video Nodejs-------------------------------------------------------
+How to Install Node js in Machine 
+
+How to install atom software in our machine
+
+how to add Terminal in the atom and work in that so wd dont have to switch between terminal and application.
+
+--------------------------------------------3rd Video Nodejs-------------------------------------------------------
+
+V8 Engine
+it converts the java script code to machine level code
+node js and javascript both written in c++
+v8 is the heart of the nodejs
+
+--------------------------------------------4th Video Nodejs-------------------------------------------------------
+Global Object
+The window object is the Global Object in the Browser. 
+
+Any Global Variables or Functions can be accessed as properties of the window object.
+
+practiced with some global object like SettimeInterval and so on.
+
+--------------------------------------------5th Video Nodejs-------------------------------------------------------
+Function Expressions
+
+Handson on Function Expressions
+
+-----------------------------------------------this work is done between 11am-12pm----------------------
+
+
+
+
+
+
+
